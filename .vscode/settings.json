@@ -1,6 +1,11 @@
 {
     "python.pythonPath": "venv/bin/python3.9",
     "cSpell.words": [
-        "KHTML"
+        "KHTML",
+        "addrs",
+        "gmail",
+        "lxml",
+        "pflyers",
+        "smtplib"
     ]
 }
